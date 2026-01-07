@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HX711_module")(type "KiCad")(uri "C:/Users/ajeng/Downloads/KiCad-Library-main/KiCad-Library-main/HX711_mod")(options "")(descr ""))
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "C:/Users/ajeng/Downloads/ESP32-DEVKIT-V1")(options "")(descr ""))
+)
