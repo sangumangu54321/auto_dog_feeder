@@ -1,6 +1,9 @@
 # DEMO
 https://github.com/user-attachments/assets/b3031224-225a-4a62-bf17-dde1cf52a47b
 
+# hacktime
+<img width="403" height="195" alt="image" src="https://github.com/user-attachments/assets/91dc3007-59e1-40fa-8c74-c5914f830638" />
+
 # what is that?
 This is a device which feed the dog automaticly or just with a one click with a help of mobile application
 
