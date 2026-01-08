@@ -25,4 +25,6 @@ This is a device which feed the dog automaticly or just with a one click with a 
 ## 3D model
 <img width="695" height="577" alt="Screenshot 2026-01-07 125938" src="https://github.com/user-attachments/assets/2c7f6f33-d9ef-4313-b625-1b715b8dde30" />
 <img width="529" height="467" alt="Screenshot 2026-01-07 125958" src="https://github.com/user-attachments/assets/add6a137-b3bd-42d6-90fe-b3137e02d4df" />
-
+# Model
+## CAD
+<img width="870" height="655" alt="image" src="https://github.com/user-attachments/assets/4549e36f-6b04-4acc-961c-1684e5b499fe" />
